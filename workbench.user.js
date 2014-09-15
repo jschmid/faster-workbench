@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           Workbench faster login
 // @description    Set the workbench login screen to the last API version
-// @include        https://workbench.developerforce.com/login.php
+// @include        https://workbench.developerforce.com/login.php*
 // @version        1.0
 // ==/UserScript==
 
